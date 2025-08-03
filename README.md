@@ -1,3 +1,2 @@
-**URL**: bevara-portfolio-builder.lovable.app
-
+**URL**:https://bevara-portfolio-builder.lovable.app/
 
